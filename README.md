@@ -11,7 +11,9 @@
 Projeto simples desenvolvido para praticar listas ordenadas e não ordenadas utilizando HTML5.
 
 🚀 Tecnologias
+
 HTML5
+
 📚 Sobre o Projeto
 
 O projeto apresenta exemplos de:
